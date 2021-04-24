@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maborak&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maborak&show_icons=true&include_all_commits=true)
 
 <!--
 **maborak/maborak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
